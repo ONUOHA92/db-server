@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "learning React",
+      "Description": "ways to learn react",
+      "Author": "collins",
+      "images": "",
+      "video": ""
+    },
+    {
+      "title": "learning java",
+      "Description": "fundamental of java",
+      "Author": "unicode",
+      "images": "",
+      "video": "",
+      "id": 2
+    }
+  ]
+}
